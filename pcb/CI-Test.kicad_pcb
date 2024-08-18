@@ -94,7 +94,7 @@
 	(footprint "LED_THT:LED_D5.0mm"
 		(layer "F.Cu")
 		(uuid "199fcc2c-5f87-440e-9aa4-4f62585543ac")
-		(at 150 91 90)
+		(at 150 91.3 90)
 		(descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
 		(tags "LED diameter 5.0mm 2 pins")
 		(property "Reference" "D1"
@@ -938,20 +938,20 @@
 		)
 	)
 	(segment
-		(start 150 91)
-		(end 143 91)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "184da62a-e2ba-4cb0-a52a-dd9c7ddfeb58")
-	)
-	(segment
-		(start 143 91)
+		(start 143.3 91.3)
 		(end 142 90)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 1)
-		(uuid "323545c6-a4e9-4572-bb44-2aae52882410")
+		(uuid "0390320e-6bf8-4101-8535-20487fa9726c")
+	)
+	(segment
+		(start 150 91.3)
+		(end 143.3 91.3)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "eae8f72e-11e7-4e7f-a2c7-164a657b8c45")
 	)
 	(segment
 		(start 152.81 83)
