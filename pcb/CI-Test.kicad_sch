@@ -4,12 +4,12 @@
 	(generator_version "8.0")
 	(uuid "29ea099f-887f-4c7a-8321-1c60e8f574f4")
 	(paper "A4")
-    (title_block
-                (title "CI-Test")
-                (date "${DATE}")
-                (rev "${VERSION}")
-                (company "Qetesh")
-            )
+	(title_block
+		(title "CI-Test")
+		(date "${DATE}")
+		(rev "${VERSION}")
+		(company "Qetesh")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x01"
 			(pin_names
@@ -441,6 +441,16 @@
 			(type default)
 		)
 		(uuid "caa0fa07-6040-4786-9fdd-de9f303b3d0a")
+	)
+	(text "blabla"
+		(exclude_from_sim no)
+		(at 171.704 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0eecde34-53d7-4694-b959-6ab2ee5eec2d")
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
