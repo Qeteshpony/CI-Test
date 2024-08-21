@@ -442,7 +442,7 @@
 		)
 		(uuid "caa0fa07-6040-4786-9fdd-de9f303b3d0a")
 	)
-	(text "blablabla"
+	(text "blabla\n\n"
 		(exclude_from_sim no)
 		(at 171.704 82.55 0)
 		(effects
