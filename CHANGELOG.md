@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/Qeteshpony/CI-Test/compare/v1.0.2...v1.0.3) (2024-08-21)
+
+
+### Bug Fixes
+
+* testfix ([50e0e67](https://github.com/Qeteshpony/CI-Test/commit/50e0e6739e8a883c39aead88c85bb38561b18cf8))
+
 ## [1.0.2](https://github.com/Qeteshpony/CI-Test/compare/v1.0.1...v1.0.2) (2024-08-18)
 
 
