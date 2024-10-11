@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Qeteshpony/CI-Test/compare/v1.0.3...v1.1.0) (2024-10-11)
+
+
+### Features
+
+* bla ([a53bb69](https://github.com/Qeteshpony/CI-Test/commit/a53bb691e4e085a471d73b65cb851f29092bdc4a))
+
 ## [1.0.3](https://github.com/Qeteshpony/CI-Test/compare/v1.0.2...v1.0.3) (2024-10-11)
 
 
